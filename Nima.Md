@@ -1,9 +1,9 @@
- <h1 align="center"> Asta Md </h1> 
-<p align="center"> Introducing Asta_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ <h1 align="center"> Nima Md </h1> 
+<p align="center"> Introducing Nima_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/Astropeda">
-    <img alt="Asta docs" height="300" src="https://leadier-umbrellas.000webhostapp.com/asta-anime3.jpg">
+    <img alt="Nima docs" height="300" src="https://leadier-umbrellas.000webhostapp.com/nima-anime3.jpg">
   </a>
 </p>
     
@@ -95,7 +95,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+923184474176`](https://wa.me/923184474176)
+- If any problem, then [`+94773517552`](https://wa.me/94773517552)
 
 
 ### Thanks To
